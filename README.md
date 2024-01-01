@@ -2,9 +2,8 @@
 MultiLineTagView
 
 This code has been modified by referring to another code.
-
-Original Code 
-[Blog](https://nsios.tistory.com/203#comment15582758)
+(Original Code 
+[Blog](https://nsios.tistory.com/203#comment15582758))
 
 Using Swift, SnapKit
 
