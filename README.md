@@ -6,6 +6,8 @@ This code has been modified by referring to another code.
 Original Code 
 [Blog](https://nsios.tistory.com/203#comment15582758)
 
+Using Swift, SnapKit
+
 This code was written using SnapKit. If you use a Storyboard or other UI library, you will have to modify it yourself.
 
 # Usage
